@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin:400,500,600,700');
+body{
+	font-family: 'Cabin', sans-serif;
+	font-size: 14px;
+	color:#726A84;
+		
+}
+#sec-intro{
+	
+	background-image:url(../img/angle-bg.png);
+	background-repeat: no-repeat;
+	background-position: bottom;
+	background-size: cover;
+	color: #fff;
+	padding-top: 15%;
+	
+	
+
+}
+#sec-intro h1{
+font-size: 85px;
+	color: #fff;
+	font-weight: 700;
+	position: relative;
+	
+}
+#sec-intro form{
+margin-top: 15%;
+	
+	
+}
+#sec-intro input{
+background-color: #9572e8;
+	border: 0; 
+	border-radius: 30px;
+	padding: 25px 10px;
+	color:#FFFFFF;
+	
+}
+.btn-rosado{
+background-color: #fb397d;
+	border: 0; 
+		border-radius: 30px 30px 30px 0;
+	padding: 15px 10px;
+	color:#FFFFFF;
+	min-width: 150px;
+	
+}
+.btn-rosado:hover {
+	background-color:#5B32B4;
+border: 0; 
+	border-radius: 30px 30px 30px 0;
+	color:#FFFFFF;
+		min-width: 150px;
+}
+.sec-espacio{
+padding: 5% 0;
+	
+}
+#sec-tres{background-color: #13ABE1;
+color:#FFFFFF;
+	}
+	
+	.info{
+border-radius: 30px 30px 30px 0;
+	border: 1px solid #EFF2F5;
+	background-color: #FFFFFF;
+	padding: 30px ;
+	margin: 20px auto;
+	
+}
+.info   [class*="ti-"]  {
+font-size:40px;
+	color:#fb397d;
+	
+}
+.info h3{
+
+	color:#5b32b4;
+	font-weight: 300;
+}
+
+.info:hover{
+box-shadow:2px 2px 40px 5px #eff2f5;
+	transition: all 0.2s ease-in-out;
+	
+}
+
+.header-area.sticky {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    z-index: 99;
+}
+.header-area.sticky .navbar-default{
+    background-color: #884bdf;
+}
+
+.app-carousel {
+    padding: 0 6%;
+}
+.app-carousel .center .single-shot {
+    opacity: 1;
+    transform: scale(1);
+}
+.app-carousel .single-shot {
+    opacity: 0.8;
+    transform: scale(0.8);
+}
+
+.app-carousel .owl-dots {
+    text-align: center;
+}
+.app-carousel .owl-dot {
+    height: 11px;
+    width: 11px;
+    border: 2px solid #a49fba !important;
+    border-radius: 50%;
+    margin: 35px 6px;
+}
+.app-carousel .owl-dot.active {
+    background-color: #fb397d;
+    border: 0 !important;
+}
+.imag{
+	border-radius: 30px 30px 30px 0px;
+		
+}
+.shado:hover{
+box-shadow:2px 2px 40px 5px #eff2f5;
+	transition: all 0.2s ease-in-out;
+	
+}
+#sec-contact{
+	background-color: #13ABE1;
+color:#FFFFFF;
+	
+}
